@@ -1,0 +1,27 @@
+_repo: The-Prisoner-of-the-Mill-or-Captain-Hayward-s-Body-Guard_51318
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hazelton, Harry
+    aliases:
+    - Hazeltine, Lieut.-Col.
+    - Hazelton, Lieut.-Col.
+    - Hazleton, Harry
+    gutenberg_agent_id: '46356'
+    url: http://www.gutenberg.org/2009/agents/46356
+description: ''
+gutenberg_issued: '2016-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51318'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dime novels'
+- !lcc 'PS'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+- GITenberg
+title: The Prisoner of the Mill; or, Captain Hayward's "Body Guard"
+url: http://www.gutenberg.org/ebooks/51318
